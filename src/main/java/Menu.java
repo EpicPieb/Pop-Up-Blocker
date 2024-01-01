@@ -452,80 +452,80 @@ public class Menu {
                             {highs = DataStuff.loadedHighS[1];}
                         }
                         case 3 -> {
-                            if (DataStuff.loadedHighS[3] != null)
-                            {highs = DataStuff.loadedHighS[3];}
+                            if (DataStuff.loadedHighS[2] != null)
+                            {highs = DataStuff.loadedHighS[2];}
                         }
                         case 4 -> {
-                            if(DataStuff.loadedHighS[4] != null)
-                            {highs = DataStuff.loadedHighS[4];}
+                            if(DataStuff.loadedHighS[3] != null)
+                            {highs = DataStuff.loadedHighS[3];}
                         }
                     }
                 }
                 case 15 -> {
                     switch (diff) {
                         case 1 -> {
+                            if(DataStuff.loadedHighS[4] != null)
+                            {highs = DataStuff.loadedHighS[4];}
+                        }
+                        case 2 -> {
                             if(DataStuff.loadedHighS[5] != null)
                             {highs = DataStuff.loadedHighS[5];}
                         }
-                        case 2 -> {
+                        case 3 -> {
                             if(DataStuff.loadedHighS[6] != null)
                             {highs = DataStuff.loadedHighS[6];}
                         }
-                        case 3 -> {
+                        case 4 -> {
                             if(DataStuff.loadedHighS[7] != null)
                             {highs = DataStuff.loadedHighS[7];}
-                        }
-                        case 4 -> {
-                            if(DataStuff.loadedHighS[8] != null)
-                            {highs = DataStuff.loadedHighS[8];}
                         }
                     }
                 }
                 case 30 -> {
                     switch (diff) {
                         case 1 -> {
-                            if(DataStuff.loadedHighS[9] != null)
-                            {highs = DataStuff.loadedHighS[9];}
+                            if(DataStuff.loadedHighS[8] != null)
+                            {highs = DataStuff.loadedHighS[8];}
                         }
                         case 2 -> {
+                            if(DataStuff.loadedHighS[9] != null)
+                            {highs = DataStuff.loadedHighS[19];}
+                        }
+                        case 3 -> {
                             if(DataStuff.loadedHighS[10] != null)
                             {highs = DataStuff.loadedHighS[10];}
                         }
-                        case 3 -> {
+                        case 4 -> {
                             if(DataStuff.loadedHighS[11] != null)
                             {highs = DataStuff.loadedHighS[11];}
-                        }
-                        case 4 -> {
-                            if(DataStuff.loadedHighS[12] != null)
-                            {highs = DataStuff.loadedHighS[12];}
                         }
                     }
                 }
                 case 45 -> {
                     switch (diff) {
                         case 1 -> {
+                            if(DataStuff.loadedHighS[12] != null)
+                            {highs = DataStuff.loadedHighS[12];}
+                        }
+                        case 2 -> {
                             if(DataStuff.loadedHighS[13] != null)
                             {highs = DataStuff.loadedHighS[13];}
                         }
-                        case 2 -> {
+                        case 3 -> {
                             if(DataStuff.loadedHighS[14] != null)
                             {highs = DataStuff.loadedHighS[14];}
                         }
-                        case 3 -> {
+                        case 4 -> {
                             if(DataStuff.loadedHighS[15] != null)
                             {highs = DataStuff.loadedHighS[15];}
-                        }
-                        case 4 -> {
-                            if(DataStuff.loadedHighS[16] != null)
-                            {highs = DataStuff.loadedHighS[16];}
                         }
                     }
                 }
                 case 60 -> {
                     switch (diff) {
                         case 1 -> {
-                            if(DataStuff.loadedHighS[17] != null)
-                            {highs = DataStuff.loadedHighS[17];}
+                            if(DataStuff.loadedHighS[16] != null)
+                            {highs = DataStuff.loadedHighS[16];}
                         }
                         case 2 -> {
                             if(DataStuff.loadedHighS[17] != null)
