@@ -45,6 +45,7 @@ public class DataStuff {
              *                  - pieb
              */
             // hey they got javafx on intellij
+            // that comment was absolutely dumb i just realized javafx is an entire shit different from swing
             JFrame frae = new JFrame("Congrats!");
             frae.setSize(500, 625);
             int swcenter = ScreenDimensions.getWidth() / 2;
