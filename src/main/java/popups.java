@@ -277,7 +277,7 @@ public class popups {
             @Override
             public void mouseClicked(MouseEvent e) {
                 try {
-                    Desktop.getDesktop().browse(new URI("https://github.com/EpicPieb/Pop-Up-Blocker"));
+                    Desktop.getDesktop().browse(new URI("https://github.com/pieberer/Pop-Up-Blocker"));
                     Gameplay.closed++;
                     pp9f.dispose();
                 }catch(Exception ignored){}
